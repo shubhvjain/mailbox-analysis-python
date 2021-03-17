@@ -5,7 +5,9 @@ To show :
 	- total 
 	- heatmap of time 
 	- unique senders
+	- word cloud
 - emails recieved
 	- total  
 	- heatmap of time
-	- unique recievers 
+	- unique recievers
+	- word cloud  
