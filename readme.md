@@ -1,6 +1,17 @@
-To analyze emails
+To analyze emails inside a mbox file.
 
-To show :
+#### Adding user data
+Create a python file named `data.py`. This is contain all user related data required to analyze the emails.
+
+It must contain  - 
+
+```
+fileName="something.mbox" # name of the mbox file you want to analyze, must be in the same folder (all .mbox files are gitignored so they will not be commited)
+myEmail = "youemail" (to distingush between emails sent and recieved)
+```
+
+
+#### To show 
 - emails sent
 	- total 
 	- heatmap of time 
